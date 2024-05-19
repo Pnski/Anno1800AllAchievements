@@ -1,6 +1,6 @@
 {
-  "Version": "0.0.1",
-  "ModID": "All Achievements",
+  "Version": "0.0.2",
+  "ModID": "AllAchievements",
   "DeprecateIds": [],
   "LoadAfterIds": [],
   "IncompatibleIds": null,
